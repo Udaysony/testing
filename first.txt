@@ -1,1 +1,4 @@
 commit this file to git
+
+trying to use ubuntu terminal to setup git and using commands to push
+changes in master file.
